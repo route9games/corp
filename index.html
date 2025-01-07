@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://vendor-cdn.imweb.me/fonts/pretendard/web/variable/pretendardvariable.css?1669875619">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <title>Route9Games</title>
     <style>
       html {
@@ -30,6 +30,7 @@
       }
       footer {
         margin-top: 10rem;
+        color: #333;
       }
       #corp-name {
         font-size: 2rem;
@@ -87,6 +88,9 @@
       }
       #nav-top {
         background-color: white;
+        box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.3);
+        -webkit-box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.3);
+        -moz-box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.3);
       }
       .font-white {
         color: white;
@@ -102,6 +106,21 @@
         height: 100%; /* 비디오 높이를 100%로 설정 */
         object-fit: cover; /* 비디오가 div를 채우도록 설정 */
         z-index: -1; /* 비디오가 배경에 오도록 설정 */
+      }
+
+      .market-info {
+        display: flex;
+        gap: 0.5rem;
+      }
+
+      .market-info > :first-child {
+        flex: 1 1 auto
+      }
+      .market-info > :not(:first-child) {
+        font-size: 1.3rem;
+      }
+      .card:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       }
     </style>
   </head>
@@ -157,7 +176,7 @@
               <div class="card-body">
                 <h5 class="card-title">Kanahei Yurutto Puzzle</h5>
                 <p class="card-text">일본의 인기 IP인 카나헤이와 협업하여 만든, 퍼즐을 풀고 소동물 호텔을 키우는 성장형 퍼즐 게임입니다.</p>
-                <p class="card-text"><small class="text-muted">release@ 2024</small></p>
+                <p class="card-text market-info"><small class="text-muted">release@ 2024</small><i class="fa-brands fa-app-store"></i><i class="fa-brands fa-google-play"></i></p>
               </div>
             </div>
           </div>
@@ -178,13 +197,13 @@
         </div>
         <div class="card mb-3" style="max-width: 540px;">
           <div class="row g-0">
-            <div class="col-md-4 bg-black font-white text-center d-flex justify-content-center align-items-center">
+            <div class="col-md-4 fs-3 bg-gray py-5 fw-bold text-center d-flex justify-content-center align-items-center">
               Comming<br/>
               Soon
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8 border-start">
               <div class="card-body">
-                <h5 class="card-title">Comming Soon</h5>
+                <h5 class="card-title"></h5>
                 <p class="card-text">새로운 IP를 활용한 새로운 게임을 개발중입니다. 2025년 릴리즈 예정.</p>
                 <p class="card-text"><small class="text-muted">release@ 2025</small></p>
               </div>
@@ -195,12 +214,12 @@
     </main>
     <footer class="text-bg-light border-top">
       <div class="container py-4 py-lg-6">
-        <p class="text-secondary mb-4">© 2025 Route9 Inc. All rights reserved.</p>
+        <p class="mb-4">© 2025 Route9 Inc. All rights reserved.</p>
         <div class="row justify-content-md-between">
           <div class="col-sm-12 col-md-4 mt-4 mt-md-0">
-            <p class="text-secondary mb-0">Route9 Inc.</p>
-            <p class="text-secondary mb-0">경기도 성남시 분당구 판교역로 180 알파타워 4층</p>
-            <p class="text-secondary mb-0">help@route9games.com</p>
+            <p class="mb-0">Route9 Inc.</p>
+            <p class="mb-0">경기도 성남시 분당구 판교역로 180 알파타워 4층</p>
+            <p class="mb-0">help@route9games.com</p>
           </div>
         </div>
       </div>
