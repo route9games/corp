@@ -88,18 +88,6 @@
         initLocaleButton()
 
         LoadPrivacy()
-
-        $(".dropdown-item").click(function(event) {
-            event.preventDefault(); // 기본 동작 방지
-
-            let selectedText = $(this).text(); // 옵션의 텍스트
-            locale = $(this).data("value"); // 옵션의 값 (data-value)
-
-            $("#dropdownMenuButton").text(selectedText); // 버튼의 텍스트 변경
-            $("#dropdownMenuButton").attr("data-value", locale)
-
-            LoadPrivacy()
-        });
     });
 
     function getLocale() {
