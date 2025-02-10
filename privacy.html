@@ -13,7 +13,6 @@
     <link rel="stylesheet" type="text/css" href="assets/css/route9.css">
     <!-- github-markdown-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-light.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
     <title>Route9Games</title>
   </head>
   <body>
@@ -38,7 +37,7 @@
     </header>
     <main id="main">
       <div class="container d-flex flex-column gap-1">
-        <h1 class="mt-5 mb-4" id="privacy-title">Route9 Inc. 개인정보 처리방침</h1>
+        <h1 class="mt-5 mb-4" id="privacy-title"></h1>
         <div class="dropdown d-flex justify-content-end" id="dropdown-locale">
             <button id="dropdownMenuButton" class="btn btn-primary dropdown-toggle mb-4" type="button" data-bs-toggle="dropdown" aria-expanded="false" data-value="ko">
             🇰🇷 한국어
@@ -75,9 +74,9 @@
     <script>
 
       const localeMap = {
-        "ko": "🇰🇷 한국어",
-        "en": "🇺🇸 English",
-        "ja": "🇯🇵 日本語"
+        "ko": { "btnTxt":"🇰🇷 한국어", "tile": "Route9 Inc., 개인정보 처리방침", "effectiveDate": "발효일: 2025년 1월 10일"},
+        "en": { "btnTxt":"🇺🇸 English", "tile": "Route9 Inc., Privacy Policy", "effectiveDate": "Effective Date: January 10, 2025"},
+        "ja": { "btnTxt":"🇯🇵 日本語", "tile": "Route9 Inc., プライバシーポリシー", "effectiveDate": "発効日: 2025年 1月 10日"},
       }
 
       let locale = "ko"
@@ -118,10 +117,12 @@
       let ul = $($("#dropdown-locale > ul"))
       ul.empty()
       for(var localId in localeMap) {
-        ul.append(`<li><a class="dropdown-item" href="privacy.html?locale=${localId}" data-value="${localId}">${localeMap[localId]}</a></li>`)
+        ul.append(`<li><a class="dropdown-item" href="privacy.html?locale=${localId}" data-value="${localId}">${localeMap[localId].btnTxt}</a></li>`)
       }
       $('#dropdownMenuButton').text(localeMap[locale])
       $('#dropdownMenuButton').attr("data-value", locale)
+      $('#privacy-title').text(localeMap[locale].title)
+      $('#privacy-effective-date').text(localeMap[locale].effectiveDate)
     }
 
     function LoadPrivacy() {
