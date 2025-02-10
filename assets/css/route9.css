@@ -125,3 +125,7 @@ html {
   ul > li {
     padding-bottom: 0.5rem;
   }
+
+  #link_terms {
+    margin-left: auto;
+  }
