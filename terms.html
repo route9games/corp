@@ -37,18 +37,18 @@
     </header>
     <main id="main">
       <div class="container d-flex flex-column gap-1">
-        <h1 class="mt-5 mb-4" id="privacy-title"></h1>
+        <h1 class="mt-5 mb-4" id="terms-title"></h1>
         <div class="dropdown d-flex justify-content-end" id="dropdown-locale">
             <button id="dropdownMenuButton" class="btn btn-primary dropdown-toggle mb-4" type="button" data-bs-toggle="dropdown" aria-expanded="false" data-value="ko">
             🇰🇷 한국어
             </button>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="privacy.us.html" data-value="ko">🇰🇷 한국어</a></li>
-              <li><a class="dropdown-item" href="privacy.us.html" data-value="en">🇺🇸 English</a></li>
-              <li><a class="dropdown-item" href="privacy.jp.html" data-value="ja">🇯🇵 日本語</a></li>
+              <li><a class="dropdown-item" href="terms.html?locale=ko" data-value="ko">🇰🇷 한국어</a></li>
+              <li><a class="dropdown-item" href="terms.html?locale=en" data-value="en">🇺🇸 English</a></li>
+              <li><a class="dropdown-item" href="terms.html?locale=ja" data-value="ja">🇯🇵 日本語</a></li>
             </ul>
           </div>
-        <h6 id="privacy-effective-date" class="mb-3">발효일: 2025년 1월 10일</h6>
+        <h6 id="terms-effective-date" class="mb-3">발효일: 2025년 1월 10일</h6>
         <div class="markdown-body" id="markdown-body">
         </div>
       </div>
@@ -64,7 +64,7 @@
         <div class="d-flex flex-row gap-2">
           <a class="link" href="terms.html?locale=ko" id="link_terms">Terms of Service</a>
           <span style="color: gray;">|</span>
-          <a class="link" href="privacy.html?locale=ko">Privacy Policy</a>
+          <a class="link" href="terms.html?locale=ko">terms Policy</a>
         </div>
       </div>
     </footer>
@@ -87,7 +87,7 @@
 
         initLocaleButton()
 
-        LoadPrivacy()
+        Loadterms()
     });
 
     function getLocale() {
@@ -105,15 +105,15 @@
       let ul = $($("#dropdown-locale > ul"))
       ul.empty()
       for(var localId in localeMap) {
-        ul.append(`<li><a class="dropdown-item" href="privacy.html?locale=${localId}" data-value="${localId}">${localeMap[localId].btnTxt}</a></li>`)
+        ul.append(`<li><a class="dropdown-item" href="terms.html?locale=${localId}" data-value="${localId}">${localeMap[localId].btnTxt}</a></li>`)
       }
       $('#dropdownMenuButton').text(localeMap[locale].btnTxt)
       $('#dropdownMenuButton').attr("data-value", locale)
-      $('#privacy-title').text(localeMap[locale].title)
-      $('#privacy-effective-date').text(localeMap[locale].effectiveDate)
+      $('#terms-title').text(localeMap[locale].title)
+      $('#terms-effective-date').text(localeMap[locale].effectiveDate)
     }
 
-    function LoadPrivacy() {
+    function Loadterms() {
       fetch(`./assets/txt/terms.${locale}.md`)
       .then(response => response.text())
       .then(data => {
