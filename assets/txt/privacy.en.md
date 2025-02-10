@@ -147,4 +147,4 @@ We may update this Privacy Policy from time to time, and we will post the update
 ### 13. 문의하기 
 If you have any questions about our privacy practices, personal data processing activities, or would like to exercise your rights under privacy laws, you may contact us at privacy@route9games.com
             
-주소: 대한민국 경기도 성남시 분당구 판교역로 180, 알파타워 403호 루트나인 주식회사
+Address: 403, Alpha Tower, 180, Pangyoyeok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea.
