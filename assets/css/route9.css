@@ -114,7 +114,8 @@ html {
     text-decoration: none;
   }
       
-  #privacy-title {
+  #privacy-title,
+  #terms-title {
     text-align: center;
   }
 
@@ -124,8 +125,4 @@ html {
 
   ul > li {
     padding-bottom: 0.5rem;
-  }
-
-  #link_terms {
-    margin-left: auto;
   }
