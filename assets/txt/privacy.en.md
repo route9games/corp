@@ -1,144 +1,150 @@
-### 1. 소개 
-당사 루트나인 주식회사는 모바일 게임을 설계, 개발 및 운영하는 기술 회사입니다. 본 개인정보 처리방침은 당사의 웹사이트, 온라인 광고 및 모바일 게임(이하 총칭하여 “서비스”)을 통해 수집한 개인정보를 수집, 저장, 사용, 공개 및 기타 처리하는 방법과 그 이유를 설명합니다. 본 개인정보 처리방침은 오프라인에서 수집하는 데이터나 입사 지원자 또는 직원으로부터 수집하는 데이터 등 당사가 수집하는 다른 데이터에는 적용되지 않습니다.
+### 1. INTRO 
+We, Route9 Inc. is a technology company that designs, develops and operates mobile games. With this Privacy Policy, we explain how and why we collect, store, use, disclose and otherwise process personal data that we collect via our website, online advertisements and mobile games (collectively, our "Services"). This Privacy Policy does not apply to any other data we collect, such as data we collect offline, from job applicants, or from employees.
 
-캘리포니아 거주자인 경우 캘리포니아 소비자 개인정보 보호법 부록 도 참조하시기 바랍니다. 유럽경제지역(EEA), 영국 또는 스위스(이하 총칭하여 “EEA+”) 거주자인 경우 EEA+ 개인정보 처리방침 부록 도 참조하시기 바랍니다. 대한민국 거주자인 경우 한국 개인정보 처리방침 부록도 참조하시기 바랍니다. 터키 거주자인 경우 터키 개인정보 처리방침 부록 도 참조하시기 바랍니다.
+If you reside in California, please also see our Supplemental California Consumer Privacy Act Statement. If you reside in the European Economic Area (EEA), United Kingdom or Switzerland (collectively, “EEA+”), please also see our Supplemental EEA+ Privacy Statement. If you reside in South Korea, please also see our Supplemental Korean Privacy Statement. If you reside in Türkiye, please also see our Supplemental Türkiye Privacy Statement.
 
-당사에 데이터를 제공하거나 본 개인정보 처리방침에 설명된 데이터 사용에 대해 우려 사항이 있는 경우, 본 개인정보 처리방침의 제6장(정보 통제권) 및 제7장(개인정보 보호권 행사 요청)을 참조하시거나 당사의 개인정보 보호책임자(privacy@route9games.com)에게 문의하시기 바랍니다.
+If you have concerns about providing data to us or it being used as described in this Privacy Policy, please see Section 6 (Control Over Your Information) and Section 7 (Requests to Exercise Privacy Rights) of this Privacy Policy, or contact our Data Protection Officer at privacy@route9games.com.
 
-### 2. 수집하는 개인정보의 유형 및 수집 방법
-<ins>사용자로부터 직접 수집하는 개인정보</ins>
+### 2. WHAT TYPES OF PERSONAL DATA WE COLLECT AND HOW WE COLLECT IT
+<ins>Personal Data Collected Directly from You</ins>
 
-당사는 사용자의 서비스 이용 방식과 거주 지역에 따라 사용자로부터 다음과 같은 유형의 개인정보를 수집할 수 있습니다.
+We may collect the following types of personal data from you depending on how you use our Services and where you are located:
 
-- <b>연락처 정보</b> : 사용자의 국가나 지역, 이름, 성, 이메일 주소 또는 사용자 이름 포함.
-- <b>사용자 생성 콘텐츠</b> : 사용자가 당사와의 소통이나 서비스 이용을 통해 업로드하거나 전송하기로 선택한 모든 파일, 문서, 동영상, 이미지, 데이터 또는 정보.
-- <b>프로필 및 게임플레이 정보</b> : 사용자의 화면 이름, 아바타나 프로필 사진, 게임 내 진행 상황, 점수, 업적 및 결제 내역(결제한 항목, 시기 및 금액 포함), 참가한 대회, 서비스 이용 방법 및 시기에 관한 세부 정보, 팀 포럼에서 보내는 메시지를 포함한 서비스 내 멤버십 및 팀 참여 정보.
-- <b>설문조사 정보</b> : 사용자가 당사 서비스와 관련하여 제공한 피드백 및 평가 포함.
-- <b>추론 정보</b> : 사용자의 당사 서비스 이용으로부터 생성되는 정보로서 사용자의 관심사 및 선호도 예측 반영
-- <b>부모 정보</b> : 부모의 이메일 주소 및 생성할 PIN 정보 포함 (당사 서비스에서 자녀보호 설정을 활성화한 경우에만 적용) 자동으로 수집하는 정보
+- <b>Contact Information</b> : including your country or region, name, surname, e-mail address or username.
+- <b>User Generated Content</b> : including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.
+- <b>Profile and Gameplay Information</b> : such as your screen name, avatar or profile picture; your in-game progress, scores, achievements and payments (including what you paid for, when and for how much); the competitions you enter; details about how and when you use our Services; and information about your membership and participation in teams on our Services, including messages you send in your team forum.
+- <b>Survey Information</b> : 사ncluding feedback and ratings you provide relating to our Services.
+- <b>Inferences</b> : such as information generated from your use of our Services, reflecting predictions about your interests and preferences.
+- <b>Parental Information</b> : including your parent’s e-mail address and PIN to be created, only if you activate parental control setting in our Services.
 
-<ins>자동으로 수집하는 정보</ins>
 
-당사는 사용자가 이용하는 서비스와 거주 지역에 따라 다음과 같은 유형의 개인정보를 자동으로 수집하고 처리할 수 있습니다.
+<ins>Information We Collect Automatically</ins>
 
-- <b>분석 데이터</b> : 사용자가 당사의 게임, 광고 및 기타 서비스를 사용하는 방식에 관한 세부 정보와 이러한 정보와 연결된 사용자 ID, 서비스 이용 방식과 시기에 관한 이벤트 및 전환 데이터, 서비스 접속에 사용하는 기기 정보, 인터넷 프로토콜(이하 “IP”) 주소, 검색 기록 및 웹사이트와의 상호작용, 운영체제 및 버전, 인터넷 브라우저 유형 및 버전, 오류 로그 및 진단 정보를 포함한 기기에서의 당사의 서비스 성능 관련 세부 정보(배터리 수명, 로딩 시간, 지연, 프레임 속도 등의 기술적 진단 정보 포함).
-- <b>기기 데이터</b> : 영구 및 비영구 고유 기기 ID, iOS의 경우 광고주 식별자(이하 “IDFA”), Android의 경우 Google 광고 ID, iOS의 경우 벤더 식별자(이하 “IDFV”), Android의 경우 앱 세트 ID, 게임 센터 ID.
-- <b>위치 데이터</b> : 인터넷 프로토콜(이하 “IP”) 주소 기반 위치 정보.
-- <b>상업적 정보</b> : 결제, 획득하거나 고려한 제품 및 서비스 또는 기타 소비 이력이나 경향.
+Depending on which of our Services you interact with and your location, we may automatically collect and process the following types of personal data:
 
-<ins>제3자로부터 수집하는 개인정보</ins>
+- <b>Analytics Data</b> : ncluding a user ID that is associated with details about how you use and interact with our games, advertising and other Services; event and conversion data about how and when you use our Services; information about the device you use to access our Services; your Internet Protocol (“IP”) address; browsing history and interactions with our website; operating system and version; internet browser type and version and other details regarding the performance of our Services on your device, including crash logs and diagnostic information (such as battery life, loading time, latency, framerate, or other technical diagnostics);
+- <b>Device Data</b> : including your persistent and non-persistent unique device IDs, Identifier For Advertisers (“IDFA”) on iOS, Google Advertising ID on Android, Identifier for Vendor (“IDFV”) on iOS, App Set ID on Android, and game center ID;
+- <b>Location Data</b> : including your location based on your Internet Protocol ("IP") address; and
+- <b>Commercial Information</b> : such as products and services paid for, obtained, or considered, or other consuming histories or tendencies;
 
-당사가 수집하는 대부분의 개인정보는 사용자가 당사의 게임을 플레이하거나 서비스와 상호작용할 때 사용자로부터 직접 수집됩니다. 그러나 다음과 같은 경우에는 제3자로부터도 개인정보를 수집할 수 있습니다.
+<ins>Personal Data Collected from Third Parties</ins>
 
-- <b>소셜 미디어</b> : 사용자가 Facebook의 공식 페이지에 “좋아요”를 누르거나, 팔로우하거나, Google, Facebook, X 또는 기타 소셜 네트워크에서 공식 페이지의 콘텐츠를 공유하는 등 다양한 소셜 미디어 네트워크를 통해 당사의 서비스와 상호작용할 때 당사는 사용자에 관한 일부 정보를 받을 수 있습니다. 당사가 받는 데이터는 소셜 네트워크의 개인정보 설정에 따라 달라지며 이름, 프로필 사진 및 친구 목록이 포함될 수 있습니다. 사용자는 개인정보를 공개하거나 한 서비스의 계정을 다른 서비스와 연결하기 전에 항상 제3자 웹사이트, 소셜 미디어 네트워크 및 서비스의 개인정보 설정을 검토하고 필요한 경우 조정해야 합니다.
-- <b>앱 마켓플레이스</b> : 사용자가 당사의 모바일 애플리케이션을 다운로드하거나 Apple App Store, Google Play 또는 기타 앱 마켓플레이스를 통해 인앱 결제를 할 때 당사는 사용자의 기기, 계정 및 결제에 관한 개인정보를 받습니다. 이러한 앱 마켓플레이스를 통해 인앱 결제를 할 때 당사는 사용자의 신용카드나 은행계좌 정보에 대한 접근 권한을 받지 않습니다. 위와 같은 제3자 업체로부터 당사가 받는 개인정보는 해당 업체에 대한 사용자의 개인정보 설정에 따라 달라집니다.
-- <b>당사 서비스와 연결하는 인증 서비스로부터 받는 정보</b> : 당사 서비스의 일부는 Facebook, Google, Apple과 같은 제3자 소셜 네트워크나 인증 서비스를 통한 로그인을 허용할 수 있습니다. 이러한 서비스는 사용자의 신원을 인증하고 특정 개인정보를 당사와 공유할 수 있는 옵션을 제공하며, 여기에는 사용자의 이름, 이메일 주소, 해당 제3자와 관련된 사용자 ID, 프로필 사진, 그리고 Facebook의 경우에는 이미 당사 게임을 플레이하고 있는 Facebook 친구들의 이름과 아바타가 포함될 수 있습니다. 당사가 받는 데이터는 해당 제3자의 정책과 해당 제3자 사이트에 대한 사용자의 개인정보 설정에 따라 달라집니다. 가능한 경우, 사용자는 같은 게임을 플레이하는 친구와 그들의 게임 진행 상황을 볼 수 있으며(해당 친구들도 사용자와 사용자의 진행 상황을 볼 수 있음), 친구 초대 등 당사가 게임과 기타 서비스에서 제공하는 다른 기능을 사용할 수 있습니다. Facebook 계정을 드림게임즈 프로필과 처음 연결할 때 표시되는 Facebook 대화상자에서 당사의 이메일 주소 접근을 허용하지 않도록 선택할 수 있습니다. Facebook으로 로그인하더라도 당사는 사용자의 허락 없이 사용자의 페이지에 게시할 수 없으며, 당사 게임을 플레이하지 않는 Facebook 친구들의 정보는 받지 않습니다. Facebook 친구들이 사용자의 게임 진행 상황을 보지 못하게 하려면 Facebook 계정과 당사 게임의 연결을 해제하고 Facebook 설정에서 앱 권한을 업데이트하면 됩니다. 드림게임즈 프로필을 Facebook, Google 또는 Apple 계정과 연결하지 않기로 선택하면, 당사가 게임 플레이 시 수집하는 개인정보는 사용자를 직접 식별할 수 있는 정보가 아닌 무작위로 생성된 사용자 ID에 연결되지만, 당사는 기기에 대한 식별자와 위에 설명된 식별자 관련 기타 정보를 수집합니다. Facebook의 개인정보 처리방침을 읽고 수시로 개인정보 설정을 검토하여 Facebook 데이터가 어떻게 공유되는지 완전히 이해하시기를 권장합니다.
-- <b>기타 출처</b> : 당사는 공개된 출처, 사용자의 사전 동의를 받아 사용자의 개인정보를 전송하는 제3자, 또는 인수합병과 같은 거래를 통해서도 개인정보를 수집할 수 있습니다.
+Most of the personal data that we collect about you comes directly from you when you play our games or interact with our Services. However, we may also collect personal data from third parties in the following circumstances:
 
-### 3.개인정보 처리 목적
+- <b>Social Media</b> : When you interact with our Services through various social media networks, such as when you "Like" our official page on Facebook or follow us, or share our official page’s content on Google, Facebook, X, or other social networks, we may receive some information about you. The data we receive depends on your privacy settings with the social network and may include name, profile picture and friends list. You should always review and, if necessary, adjust your privacy settings on third-party websites, social media networks, and services before making your personal data publicly available and/or linking or connecting your account on one service to other services.
+- <b>App Marketplaces</b> : When you download our mobile applications or make in-app payments through the Apple App Store, Google Play or other app marketplaces, we receive personal data about your device, account and payments. We do not receive access to your credit card or bank account data when you make in-app payments through these app marketplaces. The personal data we receive from these third-party companies will depend on your privacy settings with them.
+- <b>Information we receive from authentication services you connect to our Service</b> : Some parts of our Services may allow you to log in through a third-party social network or authentication service, such as Facebook, Google and Apple. These services will authenticate your identity and provide you the option to share certain personal data with us, which could include your name, email address and user ID associated with the third party, profile picture, and, in the case of Facebook, the names and avatars of your Facebook friends who are already playing our games. The data we receive is dependent on that third party's policies and your privacy settings on that third-party site. Where available, you will also be able to see which of your friends are playing the same game and their progress through the games (and they will be able to see you and your progress) or access other functionality we make available in our games and other Services, such as inviting friends to play. You can choose not to allow us to access your email address in the Facebook dialog box you see the first time you associate your Facebook account with your Dream Games profile.
+Logging in with Facebook will not allow us to post anything to your page without your permission, and we will not receive any information about your Facebook friends who do not play our games. If you do not wish your Facebook friends to be able to see your progress in our games, you can prevent this by disconnecting your Facebook account from our games and updating your app permissions from within your Facebook settings. If you choose not to connect your Dream Games profile to your Facebook, Google or Apple account, the personal data that we collect when you play our games will be linked to a randomly generated user ID rather than information that could identify you directly, but we will collect device-level identifiers and other information associated with those identifiers described above. We recommend that you read Facebook's Privacy Policy and review your privacy settings from time to time to ensure that you understand fully how your Facebook data is shared.
+- <b>Other Sources</b> : We may also collect personal data from publicly available sources, third parties who obtain your prior consent to send us your personal data, or through transactions such as mergers and acquisitions. 
 
-당사는 사용자의 서비스 이용 방식과 거주 지역에 따라 다음과 같은 목적으로 사용자의 개인정보를 사용할 수 있습니다.
+### 3.PURPOSES FOR PROCESSING YOUR PERSONAL DATA
 
-- 사용자의 게임 내 프로필을 개인화하고, 당사의 게임(팀 플레이 및 경쟁과 같은 소셜 요소 포함)을 제공하며, 사용자가 결제한 서비스가 게임에서 활성화되도록 하고, 필요한 경우 플레이어 지원을 제공하기 위해 
-- 사용자와 사용자가 사용하는 기기에 맞게 게임을 최적화하고 게임 내 커스터마이징 이벤트, 혜택 및 프로모션을 제공하기 위해 
-- 당사의 조직 관리 및 일상적인 운영을 위해 사용자가 당사에 연락하거나 서비스에 접근할 때 사용자의 신원과 제품 또는 서비스 이용 자격을 확인하기 위해 
-- 당사의 조직, 제휴 조직 및 서비스에 관한 설문조사 참여를 요청하기 위해 
-- 당사의 재산과 서비스, 기술 자산 및 사업의 안전, 보안 및 무결성을 유지하기 위해 
-- 당사의 게임 및 기타 서비스를 운영, 개선 및 최적화하기 위해 당사의 서비스를 개인화하고, 사용자와 선호도를 파악하여 서비스 이용 경험과 즐거움을 향상시키고 사용자 경험을 개선하기 위해 
-- 소셜 기능 및 멀티플레이어 경쟁을 포함한 서비스의 특정 영역, 기능 및 특징에 대한 접근을 제공하기 위해 
-- 확인, 기술 공지, 업데이트, 보안 경고, 지원 및 관리 메시지 등 서비스 관련 정보에 대해 사용자와 소통하기 위해 
-- 플레이어들이 게임 내 또는 당사의 소셜 미디어 계정에서 서로 소통할 수 있도록 하기 위해 
-- 사용자의 의견과 문의에 응답하고 고객 지원 서비스를 제공하기 위해 
-- 부정행위나 사기를 포함한 잠재적으로 금지되거나 불법적인 활동을 방지하고 플레이어를 보호하기 위해 
-- 당사 서비스에 대한 관심도를 측정하기 위해 
-- 내부 품질 관리를 보장하기 위해 
-- 당사에 적용되는 법률을 준수하고, 사기를 방지하며, 서비스 이용약관을 준수하거나 필요한 경우 이용약관에 따른 당사의 법적 권리를 방어, 행사 또는 확립하기 위해 
-- 자녀보호 설정을 활성화, 확인 및 효력을 부여하기 위해 
-- 계약상 의무 및 법적 의무와 요구사항을 준수하기 위해 
-- 요청 시 고객 서비스 채널을 통한 지원을 제공하기 위해 
-- 내부 연구 및 분석을 수행하기 위해 
-- 조직 개편, 구조 조정, 합병, 인수 또는 당사 사업이나 자산의 전체 또는 일부 매각 또는 양도(이하 “사업 거래”)를 하는 경우 이를 평가하고 체결하기 위해 
-- 본 개인정보 처리방침에 설명된 마케팅 활동을 수행하기 위해
+We may use your personal data for the following purposes, depending on how you interact with our Services and your location:
 
-### 4. 개인정보 공개
+- to enable us to personalise your in-game profile, provide our games (including the social elements of our games, such as team play and competitions), to ensure that the services you have paid for are activated in the games, and to provide you with player support if you need it;
+- to enable us to optimize our games for you and for the device that you are using, as well as to deliver customized in-game events, offers and promotions;
+- to manage our organization and its day-to-day operations;
+- to verify your identity and entitlement to products or Services when you contact us or access our Services;
+- to request your participation in our surveys about our organization, organizations we partner with, and our Services;
+- to help maintain the safety, security and integrity of our property and Services, technology assets and business;
+- to operate, improve and optimize our games and other Services;
+- to personalize our Services, understand our users and their preferences to enhance user experience and enjoyment using our Services and improve our users' experience;
+- to provide access to certain areas, functionalities and features of our Services, including social features and multiplayer competitions;
+- to communicate with you regarding Services-related information, including confirmations, technical notices, updates, security alerts and support and administrative messages;
+- to enable players to communicate with each other in games or on our social media accounts;
+- to respond to your comments and inquiries and provide customer support services;
+- to prevent potentially prohibited or illegal activities, including cheating or fraud and to protect our players;
+- to measure interest in our Services;
+- to ensure internal quality control;
+- to enable us to comply with laws that apply to us, to prevent fraud, to ensure compliance with our Terms of Service or, where necessary, to defend, exercise or establish our legal rights, including our rights under our Terms of Service;
+- to activate, verify and give effect to parental control settings;
+- to comply with contractual and legal obligations and requirements;
+- to provide support through our customer service channels when requested;
+- to conduct internal research and analytics;
+- to evaluate and enter into a reorganization, restructuring, merger, acquisition, or whole or partial sale or transfer of our business or assets ("Business Transaction"), and
+- to engage in the marketing activities described in this Privacy Policy.
 
-당사는 아래에 명시된 상황에서 다음과 같은 유형의 제3자에게 개인정보를 공개할 수 있습니다.
+### 4. DISCLOSURE OF YOUR PERSONAL DATA
 
-- <b>온라인 커뮤니티의 다른 사용자</b> : 사용자가 당사의 온라인 커뮤니티에 참여하거나 서비스에서 다른 사용자에게 가상 선물 및 아이템을 선물하는 경우, 당사는 사용자의 공개 프로필 정보(화면 이름, 프로필 사진이나 아바타, 게임 내 점수 및 업적, 선물한 아이템 및 사용자가 제공하거나 공개하기로 선택한 기타 정보를 포함)를 다른 온라인 커뮤니티 회원에게 공개할 수 있습니다.
-- <b>콘테스트, 경품행사 및 설문조사 제공자</b> : 당사는 콘테스트, 경품행사 또는 설문조사를 제공하고 응답을 처리하는 데 도움을 주는 제3자에게 개인정보를 공개할 수 있습니다.
-- <b>서비스 제공업체</b> : 당사는 사용자의 개인정보를 당사의 서비스 제공업체에 공개할 수 있습니다. 당사가 개인정보를 위탁하는 서비스 제공업체(데이터 처리자)의 유형에는 (i) IT 및 관련 서비스 제공업체, (ii) 고객 서비스 활동 지원업체, (iii) 서비스 개선 및 최적화를 지원하는 분석 및 검색 엔진 서비스 제공업체, (iv) 서비스와 관련된 모든 지원 활동을 제공하는 업체가 포함됩니다. 당사를 대신하여 계약된 서비스를 수행하거나 관련 법적 요구사항을 준수하는 데 필요한 경우를 제외하고는, 당사는 이러한 서비스 제공업체들과 개인정보를 사용하거나 공유하는 것을 금지하는 적절한 계약을 체결했습니다.
-- <b>당사의 권리, 사용자의 권리 또는 타인의 권리를 보호하기 위한 공개(예: 법률에 따른 공개)</b> : 당사는 필요하거나 적절하다고 판단되는 경우 법률 자문인 및 법 집행기관과 같은 제3자에게 사용자의 개인정보에 접근하고, 이를 보존하고 공개할 수 있습니다: (i) 법 집행 또는 국가 안보 요청 및 법원 명령이나 소환장과 같은 법적 절차를 준수하기 위해, (ii) 사용자의 요청에 응답하기 위해, (iii) 사용자, 당사 또는 타인의 권리, 재산 또는 안전을 보호하기 위해, (iv) 당사의 정책이나 계약을 집행하기 위해, (v) 당사에 지불해야 할 금액을 징수하기 위해, (vi) 물리적 피해나 재정적 손실을 방지하기 위하여 또는 의심되거나 실제의 위법행위에 대한 조사나 기소와 관련하여 공개가 필요하거나 적절하다고 판단되는 경우, (vii) 법적 청구의 성립, 행사 또는 변호와 관련하여, (viii) 기타 선의로 공개가 필요하거나 바람직하다고 판단되는 경우.
-- <b>광고 네트워크 및 광고 파트너</b> : 당사는 제3자 광고 네트워크 및 광고 파트너와 협력하여 당사가 운영하지 않는 웹사이트와 서비스 및 기타 기기에서 광고와 개인화된 콘텐츠를 제공합니다. 이러한 파트너들은 쿠키나 기타 데이터 수집 기술을 통해 개인이 당사의 서비스를 방문할 때 브라우저나 기기에서 직접 정보를 수집할 수 있습니다. 이 정보는 맞춤형 광고를 제공하고 최적화하는 데 사용되며, 보고, 기여도, 분석 및 시장 조사와 같은 광고 관련 서비스를 제공하는 데 사용됩니다. 자세한 내용은 제5장(맞춤형 광고)을 참조하시기 바랍니다. 관련 법률이 허용하는 경우, 당사는 광고 파트너가 사용자에게 관심을 가질 만한 정보를 전송하도록 돕기 위해 개인정보를 광고 파트너에게 공개할 수도 있습니다.
-- <b>동의가 있는 경우</b> : 당사는 개인의 동의나 지시에 따라 특정 제3자에게 해당 개인의 개인정보를 공개하거나 공개적으로 공개할 수 있습니다. 예를 들어, 개인의 동의나 지시에 따라 당사는 당사의 웹사이트나 기타 서비스에 해당 사용자의 후기를 게시할 수 있습니다.
-- <b>자산 매각 및 지배구조 변경</b> : 당사는 사업 거래를 평가하고 체결하기 위한 목적으로 잠재적 인수자와 그 대리인에게 개인정보를 공개할 수 있습니다.
+We may disclose personal data to the following types of third parties and in the below-mentioned circumstances.
 
-### 5.맞춤형 광고 
+- <b>Other Users in Your Online Community</b> : If you participate in any of our online communities or send a virtual gift of virtual items to other users on our Services, we may disclose your public profile information to other online community members, including your screen name, profile picture or avatar, your in-game scores and achievements, the gifted items, and any other information you choose to provide or make public.
+- <b>Contests, Sweepstakes, and Survey Providers</b> : We may disclose personal data to third parties who assist us in delivering our contests, sweepstakes, or survey offerings and processing the responses.
+- <b>Service Providers</b> : We may disclose your personal data to our service providers. The types of service providers (data processors) to whom we entrust personal data include companies that (i) provide us with IT and related services; (ii) assist us with customer service activities; (iii) provide analytics and search engine services that assist us in the improvement and optimization of our Services; and (iv) provide any supporting activities in connection with our Services. We have executed appropriate contracts with the service providers that prohibit them from using or sharing personal data except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.
+- <b>당사Disclosures to Protect Our Rights, Your Rights or the Rights of Others (e.g., as Required by Law and Similar Disclosures)</b> : We may access, preserve, and disclose your personal data to third parties, such as legal advisors and law enforcement authorities, if we believe doing so is required or appropriate: (i) to comply with law enforcement or national security requests and legal processes, such as a court order or subpoena; (ii) to respond to your requests; (iii) to protect your, our or others' rights, property or safety; (iv) to enforce our policies or contracts; (v) to collect amounts owed to us; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; (vii) in connection with the establishment, exercise, or defense of legal claims; or (viii) if we, in good faith, believe that disclosure is otherwise necessary or advisable.
+- <b>Ad Networks and Advertising Partners</b> : We work with third-party ad networks and advertising partners to deliver advertising and personalized content on websites and services that we do not operate, and across other devices. These parties may collect information directly from a browser or device when an individual visits our Services through cookies or other data collection technologies. This information is used to provide and inform our targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. Please see Section 5 (Targeted Advertising) below for more information. Where permitted by applicable laws, we may also disclose personal data to our advertising partners to help them send you information that we believe will be of interest to you.
+- <b>With Your Consent</b> : We may disclose personal data about an individual to certain other third parties or publicly with their consent or direction. For example, with an individual's consent or direction, we may post their testimonial on our websites or other Services.
+- <b>Sale of Assets and Change of Control</b> : We may disclose personal data to potential acquirers of our business assets and their representatives for the purposes of evaluating and entering into Business Transactions.
 
-당사는 제3자 광고 네트워크 및 기타 광고 기술 제공업체(이하 “애드테크 제공업체”)와 협력하여 다른 회사의 웹사이트, 게임 및 온라인 서비스 사용자에게 맞춤형 온라인 광고를 제공합니다. 이러한 광고는 당사나 애드테크 제공업체가 당사의 서비스에 관심이 있을 것으로 판단하는 사용자들을 대상으로 합니다. 이러한 맞춤형 광고를 위해 당사는 모바일 게임 플레이어와 광고 시청자에 대한 다음과 같은 유형의 개인정보를 애드테크 제공업체에 공개할 수 있습니다.
+### 5.TARGETED ADVERTISING
 
-- 광고주 식별자(IDFA) 및 Google 광고 ID
-- IP 주소
-- 이용한 당사의 서비스 내역
-- 당사의 서비스를 이용한 날짜 및 시간
-- 추정 관심사
+We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies’ websites, games and online services. These ads are targeted at users that we or our AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to our AdTech Providers:
 
-당사의 애드테크 제공업체는 이 정보를 사용하여 사용자의 관심사와 더 관련성 높은 온라인 광고를 표시하고 보고, 기여도, 분석 및 시장 조사와 같은 광고 관련 서비스를 제공합니다. 당사의 애드테크 제공업체는 당사가 공개하는 개인정보와 다른 웹사이트와 온라인 서비스에서 동일한 개인이 해당 애드테크 제공업체를 사용하였을 때 수집한 데이터와 결합합니다. 본 개인정보 처리방침은 당사의 애드테크 제공업체가 귀하의 개인정보를 수집하고 사용하는 것에는 적용되지 않습니다. 자세한 내용은 애드테크 제공업체의 개인정보 처리방침을 검토하시기 바랍니다. 당사의 애드테크 제공업체 목록과 해당 업체의 개인정보 처리방침은 여기 에서 확인할 수 있습니다.
+- Identifier For Advertisers (IDFA) and Google Advertising ID
+- IP address
+- What Services of ours they have used
+- Date and time of when they used our Services
+- Inferred interests
+
+Our AdTech Providers use this information to make the online ads users see more relevant to their interests and provide advertising-related services such as reporting, attribution, analytics and market research. Our AdTech Providers combine the personal data that we disclose to them with data they may have collected about the same individuals elsewhere, such as when those individuals use other websites and online services that rely on the same AdTech Providers. This Privacy Policy does not apply to the collection and use of your personal data by our AdTech Providers. We recommend that you review our AdTech Providers’ privacy policies for more information. A list of our AdTech Providers and their privacy policies can be found here.
 
 ### 6. 정보 통제권
 
-귀하는 당사 서비스가 귀하의 개인정보를 처리하는 방식을 다양한 방법으로 통제할 수 있습니다.
+There are a variety of ways in which you can control how our Services process your personal data.
 
-<b>서비스 삭제 또는 재설정</b> : 귀하가 모바일 기기에서 당사 게임을 삭제하면, 당사는 더 이상 해당 기기에서 게임을 통해 개인정보를 수집하지 않으며, 기기에 저장된 서비스 관련 데이터(게임 진행 상황 포함)는 삭제될 수 있습니다. 단, 당사는 게임 삭제 이전에 수집한 개인정보는 계속 처리할 수 있습니다. 또한 휴대전화 설정을 통해 모바일 광고 식별자를 재설정할 수 있으며, 이 경우 귀하는 이전 활동이나 데이터와 연관되지 않은 새로운 사용자로 당사와 광고 파트너에게 표시됩니다.
+<b>Delete or Reset our Services</b> : If you delete our games from your mobile device, we will no longer collect personal data via our games on your mobile device and any data associated with our Services that is stored on your device (which may include your game progress) may be deleted. However, we may still process any personal data we collected from you before you deleted our games from your mobile device. You can also reset your mobile advertising identifier using your phone, in which case you will appear to us and our advertising partners as a new user that is not associated with any prior activity or data.
 
-<b>계정 비활성화</b> : 계정을 완전히 비활성화하려면 모바일 게임에서 Facebook 계정 연결을 해제하고 모바일 기기에서 당사 게임을 삭제할 수 있습니다. 계정을 완전히 비활성화하면 모든 게임 진행 상황과 미사용 가상 아이템이 손실되며, 향후 복구가 불가능할 수 있습니다. 당사는 계정 비활성화 이전에 수집한 개인정보는 계속 처리할 수 있습니다.
+<b>Deactivate Your Account</b> : Should you wish to deactivate your account completely, you can disassociate your Facebook account from our mobile games and delete our games from your mobile devices. Please note that if you completely deactivate your account, all your progress in our games and any unspent virtual items will be lost, and we may not be able to restore them in the future. We may still process personal data we collected from you before you deactivated your account.
 
-<b>기기 정보에 대한 서비스 접근 권한 변경</b> : 귀하는 기기의 “설정” 앱을 통해 기기 정보에 대한 당사 서비스의 접근을 통제할 수 있습니다. 예를 들어, 당사 서비스가 귀하의 네트워크 기기와 위치 데이터에 접근하거나 다른 애플리케이션과 연동할 수 있는 권한을 철회할 수 있습니다.
+<b>Change our Services’ Access to Your Device Information</b> : You may control our Services' access to your device information through your "Settings" app on your device. For instance, you can withdraw permission for our Services to access your network devices and location data and to integrate with your other applications.
 
-<b>푸시 알림 비활성화</b> : 귀하가 기기에서 푸시 알림을 활성화한 경우, 당사는 모바일 애플리케이션을 통해 게임 업데이트, 최고 점수 및 기타 관심 있을 만한 공지사항을 푸시 알림을 통해 간헐적으로 전송할 수 있습니다. 귀하는 모바일 기기의 설정을 변경하여 언제든지 이러한 유형의 알림 수신을 거부할 수 있습니다.
+<b>Deactivate Push Notifications</b> : If you activate our push notifications at the level of your device, we may occasionally send you push notifications through our mobile applications with game updates, high scores and other notices that may be of interest to you. You may at any time opt-out from receiving these types of communications by changing the relevant settings on your mobile device.
 
-<b>맞춤형 광고</b>
-- EEA, 영국, 스위스, 터키 또는 대한민국 거주자인 경우, 당사는 게임을 처음 실행할 때 제5장(맞춤형 광고)에 설명된 맞춤형 광고 활동에 대한 동의를 요청합니다. 동의한 경우 그 이후에는 설정 > 이용약관 & 개인정보 보호정책 이동하여 언제든지 동의를 철회할 수 있습니다.
-- 미국 거주자인 경우, 설정 > 이용약관 & 개인정보 보호정책 이동하여 제5장(맞춤형 광고)에 설명된 맞춤형 광고 활동을 거부할 수 있습니다. 맞춤형 광고를 거부하더라도 당사 제품과 서비스에 대한 광고는 계속 표시될 수 있으나, 해당 광고는 귀하의 개인정보를 사용한 맞춤이 적용되지 않습니다.
-- 기기 설정을 변경하여 기기의 광고 식별자가 관심 기반 광고에 사용되지 않도록 선택하거나 기기의 광고 식별자를 재설정할 수도 있습니다. 설정은 기기마다 다르지만, 일반적으로 기기 설정의 “개인정보” 또는 “광고” 메뉴에서 광고 식별자 설정을 찾을 수 있습니다.
-- Facebook의 광고 설정을 업데이트하려면 Facebook 계정에 로그인하여 설정을 변경해야 합니다.
+<b>Targeted Advertising</b> :
 
-<b>개인정보 보호권 행사 요청 제출</b> : 귀하 또는 당사에 적용되는 법률에 따라 귀하는 개인정보 보호권을 가질 수 있습니다. 개인정보 보호권을 행사하기 위해 요청을 제출하는 방법에 대한 자세한 내용은 다음 장을 참조하시기 바랍니다.
+- If you reside in the EEA, UK, Switzerland, Türkiye or South Korea, we request your consent to engage in the targeted advertising activities described in Section 5 (Targeted Advertising) when you first launch our games. If you consent, you may subsequently withdraw your consent at any time by going to Settings > Terms & Privacy.
+- If you reside in the U.S., you can opt out of the targeted advertising activities described in Section 5 (Targeted Advertising) by going to Settings > Terms & Privacy. If you opt out of targeted advertising, you may still see ads for our products and Services, but that advertising will not be targeted using your personal data.
+- You can also choose to prevent your device's ad identifier from being used for interest-based advertising, or you can reset your device's ad identifier by changing your device's settings. Settings vary from device to device, but you will usually find the ad identifier settings under "privacy" or "ads" in your device's settings.
+- To update your advertising preferences with Facebook, you will need to log in to your account on Facebook and update your settings there.
 
-### 7. 개인정보 보호권 행사 요청
+<b>Submit a Request to Exercise Privacy Rights</b> : You may have privacy rights under the laws that apply to you or us. Please see the following section for more information about how to submit a request to exercise privacy rights you may have.
 
-귀하의 개인정보 사용에 적용되는 개인정보 보호법에 따라 귀하는 다음과 같은 개인정보 보호권의 일부 또는 전부를 가질 수 있습니다.
+### 7. REQUESTS TO EXERCISE PRIVACY RIGHTS
 
-- <b>개인정보 열람권</b> : 당사가 사용하는 귀하의 개인정보를 열람할 권리가 있습니다.
-- <b>개인정보 수정 및 삭제권</b> : 개인정보가 부정확하거나 불완전한 경우 수정 또는 보완을 요청할 권리가 있습니다. 또한 특정 조건이 적용되는 경우 개인정보 삭제를 요청할 권리가 있습니다.
-- <b>개인정보 처리 제한권</b> : 특정 조건이 적용되는 경우 개인정보 사용을 제한하도록 요청할 권리가 있습니다.
-- <b>개인정보 처리 반대권</b> : 특정 조건이 적용되는 경우 당사의 특정 개인정보 사용에 반대할 권리가 있습니다.
-- <b>개인정보 이동권</b> : 특정 조건이 적용되는 경우 다른 회사에서도 사용할 수 있도록 구조화되고 일반적으로 사용되는 형식으로 개인정보를 수령할 권리가 있습니다.
-- <b>다음 사항에 대한 거부권</b> :
-맞춤형 광고: 당사 게임을 이용하는 경우, 당사는 위 제5장에 설명된 대로 맞춤형 광고 목적으로 귀하의 개인정보를 사용할 수 있습니다. 미국의 특정 주(캘리포니아, 콜로라도, 코네티컷, 델라웨어, 인디애나, 켄터키, 메릴랜드, 미네소타, 몬태나, 네브래스카, 뉴햄프셔, 뉴저지, 오리건, 로드아일랜드, 테네시, 텍사스, 유타 및 버지니아 포함) 거주자인 경우 이러한 맞춤형 광고 목적의 개인정보 사용을 거부할 권리를 보유하거나 곧 보유하게 됩니다. 귀하는 게임 내에서 설정 > 이용약관 & 개인정보 보호정책 이동하여 이를 거부할 수 있습니다.
-판매: 당사의 개인정보 처리에 적용되는 일부 법률은 당사의 애드테크 제공업체에 특정 개인정보를 공개하는 것을 “판매”로 간주합니다. 귀하는 당사가 제3자에게 귀하의 개인정보를 판매하지 않도록 지시할 권리가 있습니다.
-차별받지 않을 권리: 귀하는 이러한 권리를 행사한다는 이유로 차별적 대우를 받지 않을 권리가 있습니다. 단, 이러한 권리 행사로 인해 당사의 개인정보 처리 능력이 제한되는 경우(예: 삭제 요청의 경우) 당사는 더 이상 제품과 서비스를 제공하거나 동일한 방식으로 귀하와 소통하지 못할 수 있습니다.
-- <b>이의제기권</b> : 위에 명시된 권리 행사 요청에 대해 당사가 조치를 취하지 않기로 결정한 경우, 귀하는 그 결정에 이의를 제기할 권리가 있습니다. 이 경우 당사는 요청을 거부한 이유와 이의제기 방법에 대한 안내를 제공합니다.
-- <b>동의 철회권</b>: 당사는 특정한 상황의 경우 귀하의 개인정보 처리에 대한 동의를 요청할 수 있습니다. 이러한 경우 동의를 제공했다면 언제든지 동의를 철회할 권리가 있습니다. 동의를 철회하더라도 철회 이전의 개인정보 처리의 적법성에는 영향을 미치지 않습니다.
-개인정보 보호권 행사 요청을 제출하려면 아래의 문의하기 장에 설명된 방법으로 당사에 연락하실 수 있습니다. 요청 시 행사하고자 하는 권리와 원하는 지원방법을 설명해 주시기 바랍니다. 당사는 귀하의 신원을 확인하고 행사하고자 하는 권리를 요청할 권리가 있는지 확인하기 위해 특정 정보를 요청할 수 있습니다. 이는 개인정보를 공유 받을 권리가 없는 사람에게 공개하거나 무단으로 처리되는 것을 방지하기 위한 보안 조치입니다. 또한 요청의 범위를 명확히 하고 더 신속한 답변을 제공하기 위해 추가 정보를 요청할 수도 있습니다. 당사는 관련 법률에 따라 개인정보 보호권 행사 요청에 응답할 것입니다.
+Depending on the privacy laws that apply to our use of your personal data, you may have some or all of the following privacy rights:
 
-### 8. 아동
-당사는 만 12세 이하 아동의 개인정보를 의도적으로 수집하지 않습니다. 만 12세 이하 아동이 당사에 개인정보를 제공한 경우, 해당 아동의 부모나 보호자가 당사에 연락하여 시스템에서 해당 개인정보를 삭제하도록 요청할 것을 권장합니다. 당사가 아동의 정보를 보유하고 있다고 생각되는 경우 당사에 연락하시기 바랍니다.
+- <b>Access to personal data</b> : You may have the right to access your personal data that we use.
+- <b>Correction or deletion of personal data: You may have the right to ask us to correct or complete your personal data if it is wrong or incomplete. You may also have the right to ask us to delete your personal data when certain conditions apply.
+- <b>Restriction on processing personal data: You may have the right to ask us to restrict the use of your personal data when certain conditions apply.
+Object to processing of personal data: You may have the right to object to certain uses of your personal data by us when certain conditions apply.
+- <b>Portability of personal data: You may have the right to receive your personal data in a structured and commonly used format so you can use this data with another company when certain conditions apply.
+- <b>Right to opt out of:
+  -  <b>Targeted advertising: If you play our games, we may use your personal data for targeted advertising purposes as described in Section 5 above. If you reside in certain states in the United States (including California, Colorado, Connecticut, Delaware, Indiana, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah and Virginia), you have or will soon have the right to opt out of our use of your personal data for these targeted advertising purposes. You may opt out in-game by going to Settings > Terms & Privacy.  
+  - <b>Selling: Some of the laws that apply to our processing of personal data qualify some of our disclosures of personal data to our AdTech Providers as “selling” personal data. You may have the right to direct us not to sell your personal data to third parties.
+- <b>Right to non-discrimination: You may have the right not to receive discriminatory treatment for exercising these rights. However, please note that if the exercise of these rights limits our ability to process personal data (such as in the case of a deletion request), we may no longer be able to provide you with our products and services or engage with you in the same manner.
+- Right to appeal: If we decline to take action on a request exercising one of your rights set forth above, you may have the right to appeal our decision. In these cases, we will notify you providing our reasons for denying the request and instructions for how you can appeal the decision.
+- Right to Withdraw Consent: There are certain circumstances where we request your consent to process your personal data. In these instances, if you have provided consent, you may have the right to withdraw your consent at any time. If you withdraw your consent, this will not affect the lawfulness of our use of your personal data before your withdrawal.
 
-만 12세 초과 18세 미만(또는 해당 관할권의 성년 연령이 18세 초과인 경우 해당 연령 미만)인 경우, 부모나 법적 보호자의 허가 없이는 당사의 서비스를 이용할 수 없으므로 부모나 법적 보호자에게 본 개인정보 처리방침을 읽어보도록 요청해야 합니다. 부모는 “설정” 메뉴의 자녀보호 설정을 통해 채팅, 인앱 결제 및 기타 특정 기능을 활성화하거나 비활성화할 수 있습니다. 자녀보호 기능이 활성화되면 미리 설정된 비밀번호 없이는 이러한 기능을 변경할 수 없습니다. 당사는 사용자가 아직 성년이 되지 않았다는 사실을 알게 되는 경우 관련 법률을 준수하기 위해 개인정보 사용 방식을 변경할 수 있습니다.
+To submit a request to exercise your privacy rights, you can contact us by any method described in the Contact Us section below. In your request, please describe what rights you are exercising and how you would like us to assist. We may need to request specific information from you to help us verify your identity and that you have the right to request what your are requesting. These are security measures to ensure that we do not disclose personal data to any person who has no right to receive it, or otherwise process the data in unauthorized ways. We may also contact you to ask for further information about your request to clarify the scope of your request and speed up our response. We will respond to requests to exercise privacy rights according to applicable laws.
 
-### 9. 보안
-당사는 무단 처리로부터 개인정보를 보호하기 위한 물리적, 기술적, 전자적, 절차적 조치를 관리합니다. 여기에는 방화벽, 데이터 암호화 기술, 내부 데이터 보안 프로토콜 및 당사로부터 개인정보를 받는 조직과의 데이터 보호 및 처리 계약이 포함됩니다. 그러나 서버, 컴퓨터, 통신 네트워크나 시스템, 또는 인터넷을 통한 데이터 전송은 100% 안전을 보장할 수 없습니다. 따라서 당사는 귀하의 개인정보를 보호하기 위해 노력하지만, 귀하가 당사에 또는 당사의 서비스를 통해 전송하는 개인정보의 보안을 보장하거나 보증할 수 없습니다.
+### 8. CHILDREN
+We do not intend to or knowingly collect personal data from children 12 and under. If a child 12 or under has provided personal data to us, we encourage the child's parent or guardian to contact us to request that we remove the personal data from our systems. If you believe that we might have any information from or about children, please contact us.
 
-### 10. 제3자 웹사이트
-당사의 서비스에는 제3자 웹사이트, 플러그인 및 애플리케이션에 대한 링크가 포함될 수 있습니다. 당사가 본 개인정보 처리방침을 게시, 링크하거나 명시적으로 채택 또는 참조하는 경우를 제외하고, 본 개인정보 처리방침은 제3자 웹사이트 및 온라인 서비스나 기타 제3자의 개인정보 처리 관행에는 적용되지 않으며, 당사는 이에 대해 책임을 지지 않습니다. 제3자의 개인정보 처리 관행에 대해 알아보려면 해당 제3자의 개인정보 처리방침을 참조하시기 바랍니다.
+If you are above the age of 12 but under the age of 18 (or the age of majority in your jurisdiction, if this is higher than 18), you must ask your parent or legal guardian to read this Privacy Policy because you are not allowed to use our Services without the permission of your parent or legal guardian. Parents can enable or disable chat, in-app payments, and certain other features through the parental control setting under “Settings” menu. Once parental controls are activated, these features cannot be changed without a pre-set password. If we learn that a user has not yet reached the age of majority, we may change how we use their personal data to comply with applicable laws.
 
-### 11. 보관
-당사는 개인정보 처리 목적이나 법적 요구사항을 위해 필요한 경우에만 귀하의 개인정보를 보관합니다. 개인정보 보관 기간은 수집 및 사용의 목적과 관련 법률 준수에 필요한 기간(법률, 규제, 세금, 회계 또는 신고사항을 충족하기 위한 목적 포함), 당사의 법적 권리 확립, 행사 또는 방어에 필요한 기간, 또는 법원이나 관할 공공기관에 데이터를 제공하기 위해 필요한 기간에 따라 달라집니다. 당사가 수집한 목적에 더 이상 필요하지 않게 되면 해당 개인정보를 삭제합니다.
+### 9. SECURITY
+We maintain physical, technical, electronic and procedural measures intended to protect personal data from unauthorized processing, including firewalls, data encryption technologies, internal data security protocols and data protection and processing agreements with organizations that receive your personal data from us. However, no server, computer or communications network or system, or data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal data, we cannot ensure or warrant the security of any personal data you transmit to us or through our Services.
 
-### 12. 본 개인정보 처리방침의 변경
-당사는 본 개인정보 처리방침을 수시로 업데이트할 수 있으며, 업데이트된 개인정보 처리방침을 이 페이지에 게시합니다. 당사가 본 개인정보 처리방침을 변경하는 경우, 본 문서 시작 부분의 날짜를 변경합니다. 본 개인정보 처리방침에 중대한 변경이 있는 경우, 당사는 등록된 이메일 주소로 이메일을 보내거나, 당사의 서비스 내에 잘 보이도록 게시하거나, 기타 적절한 소통 채널을 통해 개인에게 통지합니다. 새로운 방침은 당사가 게시한 날부터 효력이 발생합니다.
+### 10. THIRD-PARTY WEBSITES
+Our Services may include links to third-party websites, plug-ins and applications. Except where we post, link to or expressly adopt or refer to this Privacy Policy, this Privacy Policy does not apply to, and we are not responsible for, any personal data practices of third-party websites and online services or the practices of other third parties. To learn about the personal data practices of third parties, please visit their respective privacy policies.
+
+### 11. RETENTION
+We retain your personal data only as necessary for the purposes for which the personal data is processed or for legal requirements. The length of time for which we retain personal data depends on the purposes for which we collect and use it and how long we need to retain it to comply with applicable laws (including for the purpose of satisfying any legal, regulatory, tax, accounting or reporting requirements), to establish, exercise or defend our legal rights, or to make the data available to judges and courts or the competent public authorities. Once the personal data is no longer necessary for the purposes for which we collected it, we will delete it.
+
+### 12. CHANGES TO THIS PRIVACY POLICY
+We may update this Privacy Policy from time to time, and we will post the updated Privacy Policy on this page. When we make changes to this Privacy Policy, we will change the date at the beginning of this Privacy Policy. If we make material changes to this Privacy Policy, we will notify individuals by email to their registered email address, by prominent posting on our Services, or through other appropriate communication channels. Any new policy will be effective from the date it is published by us.
 
 ### 13. 문의하기 
-당사의 개인정보 처리 관행, 개인정보 처리 활동에 대해 궁금한 점이 있거나 개인정보 보호법에 따른 권리를 행사하고자 하는 경우 privacy@route9games.com으로 문의하실 수 있습니다.
+If you have any questions about our privacy practices, personal data processing activities, or would like to exercise your rights under privacy laws, you may contact us at privacy@route9games.com
             
 주소: 대한민국 경기도 성남시 분당구 판교역로 180, 알파타워 403호 루트나인 주식회사
