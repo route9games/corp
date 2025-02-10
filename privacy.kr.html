@@ -77,6 +77,11 @@
         html      = converter.makeHtml(respnose.text());
         document.getElementById("markdown-body").innerHTML = html;        
       })
+      .then(data => {
+        var converter = new showdown.Converter(),
+        html      = converter.makeHtml(data);
+        document.getElementById("markdown-body").innerHTML = html;        
+      })
       .catch(err => console.log(err))
     </script>
   </body>
