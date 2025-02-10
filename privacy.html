@@ -74,9 +74,9 @@
     <script>
 
       const localeMap = {
-        "ko": { "btnTxt":"🇰🇷 한국어", "tile": "Route9 Inc., 개인정보 처리방침", "effectiveDate": "발효일: 2025년 1월 10일"},
-        "en": { "btnTxt":"🇺🇸 English", "tile": "Route9 Inc., Privacy Policy", "effectiveDate": "Effective Date: January 10, 2025"},
-        "ja": { "btnTxt":"🇯🇵 日本語", "tile": "Route9 Inc., プライバシーポリシー", "effectiveDate": "発効日: 2025年 1月 10日"},
+        "ko": { "btnTxt":"🇰🇷 한국어", "title": "Route9 Inc., 개인정보 처리방침", "effectiveDate": "발효일: 2025년 1월 10일"},
+        "en": { "btnTxt":"🇺🇸 English", "title": "Route9 Inc., Privacy Policy", "effectiveDate": "Effective Date: January 10, 2025"},
+        "ja": { "btnTxt":"🇯🇵 日本語", "title": "Route9 Inc., プライバシーポリシー", "effectiveDate": "発効日: 2025年 1月 10日"},
       }
 
       let locale = "ko"
@@ -119,7 +119,7 @@
       for(var localId in localeMap) {
         ul.append(`<li><a class="dropdown-item" href="privacy.html?locale=${localId}" data-value="${localId}">${localeMap[localId].btnTxt}</a></li>`)
       }
-      $('#dropdownMenuButton').text(localeMap[locale])
+      $('#dropdownMenuButton').text(localeMap[locale].btnTxt)
       $('#dropdownMenuButton').attr("data-value", locale)
       $('#privacy-title').text(localeMap[locale].title)
       $('#privacy-effective-date').text(localeMap[locale].effectiveDate)
