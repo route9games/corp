@@ -144,7 +144,7 @@ We retain your personal data only as necessary for the purposes for which the pe
 ### 12. CHANGES TO THIS PRIVACY POLICY
 We may update this Privacy Policy from time to time, and we will post the updated Privacy Policy on this page. When we make changes to this Privacy Policy, we will change the date at the beginning of this Privacy Policy. If we make material changes to this Privacy Policy, we will notify individuals by email to their registered email address, by prominent posting on our Services, or through other appropriate communication channels. Any new policy will be effective from the date it is published by us.
 
-### 13. 문의하기 
+### 13. CONTACT US 
 If you have any questions about our privacy practices, personal data processing activities, or would like to exercise your rights under privacy laws, you may contact us at privacy@route9games.com
             
 Address: 403, Alpha Tower, 180, Pangyoyeok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea.
