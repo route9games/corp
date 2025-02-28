@@ -1,0 +1,117 @@
+{
+    "slogan": {
+        "ko": "게임을 통해 새로운 즐거움과 경험을 찾습니다.",
+        "en": "Find new pleasures and experiences through gaming.",
+        "ja": "ゲームを通じて新たな楽しさと経験を見つけます。"
+    },
+    "partners": [
+        {
+            "img": "https://avex.com/jp/en/common/v2/img/img-logo.png",
+            "background": "#004cad"
+        },
+        {
+            "img": "https://welcon.kocca.kr/cmm/getImage.do?atchFileId=FILE_55e6eb49-2b37-4b3e-9176-163bf69e4921&amp;fileSn=2&amp;thumb="
+        },
+        {
+            "img": "https://www.liica.co.jp/wp-content/themes/liica_corp2023/img/ogp.png"
+        },
+        {
+            "img": "https://static.wikia.nocookie.net/enanimanga/images/5/52/Tezuka_Productions_logo.png"
+        },
+        {
+            "img": "https://www.shueisha.co.jp/wp-content/themes/shueisha/image/en/mv/mv_subtitle_01.png",
+            "background": "#000000"
+        },
+        {
+            "img": "https://www.kodansha.com/img/common/logo_white.png",
+            "background": "#2a2a2a"
+        },
+        {
+            "img": "https://static.wixstatic.com/media/28c22b_f84b0bc66cf0456c968db5af761243a1~mv2.png/v1/fit/w_2500,h_1330,al_c/28c22b_f84b0bc66cf0456c968db5af761243a1~mv2.png"
+        },
+        {
+            "img": "https://group.kadokawa.co.jp/themes/group.kadokawa/assets/images/logo_kadokawa_0001.png",
+            "background": "#000066"
+        },
+        {
+            "img": "https://www.dxg.jp/wp-content/themes/base_theme/assets/static/build/images/logo.svg"
+        }
+    ],
+    "games": [
+        {
+            "img": "https://play-lh.googleusercontent.com/iSdtNrUHsThVX6BtkN8AallMOjLo3xJC3GuM-Itn6kwdUPz9L2EUqKdUl0cudvNHBPk",
+            "market": ["google-play", "app-store"],
+            "release": "2024",
+            "title": {
+                "ko": "카나헤이 유루토 퍼즐",
+                "en": "Kanahei Yurutto Puzzle",
+                "ja": "ゆるっとパズル"
+            },
+            "desc": {
+                "ko": "일본의 인기 IP인 카나헤이와 협업하여 만든, 퍼즐을 풀고 소동물 호텔을 키우는 성장형 퍼즐 게임입니다.",
+                "en": "A growth-based puzzle game where you solve puzzles and raise a small animal hotel in collaboration with popular Japanese IP Kanahihei.",
+                "ja": "日本の人気IP「カナヘイ」とコラボした、パズルを解いて小動物ホテルを育てる成長型パズルゲームです。"
+            }
+        },
+        {
+            "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/58/c6/5058c60d-080a-411d-274b-de9a58bc7a69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/360x360bb.png",
+            "market": ["google-play", "app-store"],
+            "release": "2025",
+            "title": {
+                "ko": "에스더버니 팝 걸",
+                "en": "EstherBuny Pop Girl",
+                "ja": "エスターバニーポップガール"
+            },
+            "desc": {
+                "ko": "Esther Kim의 귀여운 토끼 에스더 버니를 패션 스타로 만드는 신나고 즐거운 퍼즐게임 입니다.",
+                "en": "Esther Kim's cute bunny, Esther Bunny, is a fun and exciting puzzle game in which you turn her into a fashion star.",
+                "ja": "Esther Kimのかわいいウサギ、エスター・バニーをファッションスターにするエキサイティングで楽しいパズルゲームです。"
+            }
+        },
+        {
+            "img": "assets/img/match-fantasy.png",
+            "market": [],
+            "release": "2025",
+            "title": {
+                "ko": "매치 판타지",
+                "en": "Match Fantasy",
+                "ja": "Match Fantasy"
+            },
+            "desc": {
+                "ko": "이전에 없던 새로운 방식의 퍼즐게임을 개발중입니다. 2025년 릴리즈 예정.",
+                "en": "We're building a puzzle game that's never been done before. Scheduled for release in 2025.",
+                "ja": "今までにない新感覚のパズルゲームを開発中です。2025年リリース予定。"
+            }
+        },
+        {
+            "img": "https://yt3.googleusercontent.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s900-c-k-c0x00ffffff-no-rj",
+            "market": [],
+            "release": "2026",
+            "title": {
+                "ko": "Route9 x Avex",
+                "en": "Route9 x Avex",
+                "ja": "Route9 x Avex"
+            },
+            "desc": {
+                "ko": "Avex의 IP를 활용한 매치3 퍼즐 출시예정",
+                "en": "Match-3 puzzles using Avex's IP coming soon",
+                "ja": "AvexのIPを活用したマッチ3パズルをリリース予定"
+            }
+        },
+        {
+            "img": "assets/img/gogo.jpg",
+            "market": [],
+            "release": "2026",
+            "title": {
+                "ko": "Route9 x GAG",
+                "en": "Route9 x GAG",
+                "ja": "Route9 x GAG"
+            },
+            "desc": {
+                "ko": "블럭체인을 활용한 매치3 퍼즐 게임 출시 예정",
+                "en": "A match-3 puzzle game using blockchain is coming soon",
+                "ja": "ブロックチェーンを活用したマッチ3パズルゲーム発売予定"
+            }
+        }
+    ]
+}

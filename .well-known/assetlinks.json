@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.route9games.matchfantasy",
+      "sha256_cert_fingerprints": [
+        "2E:CB:6B:69:39:E1:86:D9:8D:AD:21:8B:25:A2:9C:41:FA:8F:D2:F6:0B:72:24:13:FF:E6:AF:9C:BF:10:F4:5E"
+      ]
+    }
+  }
+]

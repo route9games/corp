@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -13,10 +12,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/route9.css">
+    <!-- github-markdown-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-light.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Route9Games</title>
   </head>
   <body>
-    <header class="navbar navbar-expand-lg nav-top-shadow navbar-light sticky-top border-bottom" id="nav-top">
+    <header class="navbar navbar-expand-lg navbar-light sticky-top border-bottom" id="nav-top">
       <nav class="container" aria-label="Main">
         <a class="navbar-brand d-inline-flex text-uppercase" href="/" id="img-logo">
           <img src="assets/img/ci.png" alt="" height="24">
@@ -58,27 +59,11 @@
       </nav>
     </header>
     <main id="main">
-      <div id="slogan" class="slogan-shadow">
-        <video id="myVideo" muted autoplay loop preload="metadata" playsinline>
-          <source src="assets/video/test.mp4" type="video/mp4">
-        </video>
-        <div class="container py-5" >
-          <div class="col-xxl-10">
-            <h1 class="display-1 mb-4">Find your way to<br/>
-              pleasure.</h1>
-            <h1 id="slogan-desc">게임을 통해 새로운 즐거움과 경험을 찾습니다.</h1>
-          </div>
+      <div class="container d-flex flex-column gap-1">
+        <h1 class="mt-5 mb-4" id="privacy-title"></h1>
+        <h6 id="privacy-effective-date" class="mb-3">발효일: 2025년 1월 10일</h6>
+        <div class="markdown-body" id="markdown-body">
         </div>
-      </div>
-      <div class="container mt-4">
-        <h1 id="title">Games</h1>
-      </div>
-      <div class="container d-flex gap-3 flex-column" id="game-list">
-      </div>
-      <div class="container mt-4">
-        <h1 id="title">Partners</h1>
-      </div>
-      <div class="container d-flex gap-4 flex-wrap" id="partner-list">
       </div>
     </main>
     <footer class="text-bg-light border-top">
@@ -96,11 +81,18 @@
         </div>
       </div>
     </footer>
+    <script src="  https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="assets/script/route9.js"></script>
     <script>
-      
+
+      const localeMapDoc = {
+        "ko": { "btnTxt":"🇰🇷 한국어", "title": "Route9 Inc., 개인정보 처리방침", "effectiveDate": "발효일: 2025년 1월 10일"},
+        "en": { "btnTxt":"🇺🇸 English", "title": "Route9 Inc., Privacy Policy", "effectiveDate": "Effective Date: January 10, 2025"},
+        "ja": { "btnTxt":"🇯🇵 日本語", "title": "Route9 Inc., プライバシーポリシー", "effectiveDate": "発効日: 2025年 1月 10日"},
+      }
+
       let locale = "ko"
 
       $(document).ready(function() {
@@ -110,84 +102,21 @@
         $('#link_terms').attr('href', `terms.html?locale=${locale}`)
         $('#link_privacy').attr('href', `privacy.html?locale=${locale}`)
         initLocaleButton()
-        Init()
+        init()
+    });
+
+    function init() {
+      $('#privacy-title').text(localeMapDoc[locale].title)
+      $('#privacy-effective-date').text(localeMapDoc[locale].effectiveDate)
+      fetch(`./assets/txt/privacy.${locale}.md`)
+      .then(response => response.text())
+      .then(data => {
+        var converter = new showdown.Converter(),
+        html      = converter.makeHtml(data);
+        document.getElementById("markdown-body").innerHTML = html;        
       })
-
-      window.onload = function() {
-        playVideo()
-      };
-
-      function playVideo() {
-        var video = document.getElementById("myVideo");
-        video.play().catch(function(error) {
-          console.log("자동 재생 오류:", error)
-        })
-      }
-
-      // 페이지가 백그라운드로 갔다가 다시 포그라운드로 돌아올 때 호출할 함수
-      document.onVisibilityChange = function() {
-        if (!document.hidden) {
-          playVideo()
-        }
-      }
-
-      function Init() {
-        fetch(`./assets/json/info.json`)
-        .then(response => response.text())
-        .then(data => {
-          const info = JSON.parse(data)
-          $('#slogan-desc').text(info.slogan[locale] ?? "게임을 통해 새로운 즐거움과 경험을 찾습니다.")
-          const gameList = $('#game-list')
-          gameList.empty()
-          let gameRow = []
-          for( var id in info.games) {
-            const game = info.games[id]
-            let marketElements = []
-            game.market.forEach( market => marketElements.push(`<i class="fa-brands fa-${market}"></i>`) )
-            gameRow.push(`<div class="card">
-              <div class="row g-0">
-                <div class="col-md-4">
-                  <img src="${game.img}" class="img-fluid rounded-start" alt="...">
-                </div>
-                <div class="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">${game.title[locale]}</h5>
-                    <div class="card-text">${game.desc[locale]}</div>
-                    <div class="card-text market-info"><small class="text-muted">@ ${game.release}</small>${marketElements.join("")}</div>
-                  </div>
-                </div>
-              </div>
-            </div>`)
-            if(gameRow.length == 2) {
-              gameList.append(`<div class="d-flex gap-3">${gameRow.join("")}</div>`)
-              gameRow = []
-            }
-          }
-          if(gameRow.length > 0) {
-            if(gameRow.length == 1) {
-              gameRow.push('<div></div>')
-            }
-          }
-          if(gameList.length > 0) {
-            gameList.append(`<div class="d-flex gap-3">${gameRow.join("")}</div>`)
-          }
-          // --- partners 
-          let partners = []
-          info.partners.forEach(partner => {
-            style = ""
-            if("background" in partner) {
-              style = `style="background: ${partner.background}"`
-            }
-            partners.push(
-            `<div class="card parter" ${style}>
-              <img src="${partner.img}"/>
-            </div>`
-            )
-          })
-          $('#partner-list').append(partners.join(""))
-        })
-        .catch(err => console.log(err))
-      }
+      .catch(err => console.log(err))
+    }
     </script>
   </body>
 </html>
